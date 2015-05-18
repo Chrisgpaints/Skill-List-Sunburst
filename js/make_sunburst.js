@@ -81,7 +81,7 @@ var width = 840,
     height = width,
     radius = width / 2.5,
     x = d3.scale.linear().range([0, 2 * Math.PI]),
-    y = d3.scale.pow().exponent(1.5).domain([0, 1]).range([0, radius]),
+    y = d3.scale.pow().exponent(1.3).domain([0, 1]).range([0, radius]),
     padding = 5,
     duration = 1000;
 
@@ -128,8 +128,7 @@ var arc = d3.svg.arc()
       .attr("text-anchor", function(d) {
         return x(d.x + d.dx / 2) > Math.PI ? "end" : "start";
       })
-      .attr('x', 10)
-      .attr("y", 10)
+      .attr("y", 0)
       .attr("transform", function(d) {
         var multiline = (d.name || "").split(" ").length > 1,
             angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90,

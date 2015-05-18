@@ -7,6 +7,10 @@ path {
   fill-rule: evenodd;
 }
 
+tspan {
+  font-size:80%;
+}
+
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -17,7 +21,7 @@ path {
 
 
 
-d3.csv('./data/Skills - summery.csv')
+d3.csv('./data/Skills - summery - simplified.csv')
   .row(function(row){
     return row;
   })
@@ -33,7 +37,7 @@ d3.csv('./data/Skills - summery.csv')
 
     rows.forEach(function(row){
 
-      var language = row['Language / Platform'];
+      var language = row['Type'];
       var field = row['Field'];
       var skill = row['Skill'];
       var years = row['Years Experience'].valueOf();
