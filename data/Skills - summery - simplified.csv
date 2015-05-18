@@ -1,0 +1,37 @@
+Skill,Type,Field,Language / Platform,Expertise Level,Years Experience,Projects,On Linkedin
+Android App Framework,App Development,Platform,,Advanced,1,,0
+Django,App Development,Platform,,Expert,1,,1
+ExpressJS,App Development,Platform,Javascript,Familiar,1,,0
+IOS App framework,App Development,Platform,,Advanced,2,,1
+MEAN Stack,App Development,Platform,Javascript,Advanced,1,,0
+Spring,App Development,Platform,,Advanced,1,,1
+D3,Data Science,Framework,Javascript,Advanced,1,,1
+MongoDB,Data Science,Database,,Advanced,1,,0
+MySQL,Data Science,Database,,Expert,2,,1
+Hibernate,Data Science,Database,,Advanced,1,,0
+Spark,Data Science,Framework,Java / Scala / Python,Familiar,0.1,,0
+C/C++,General,Language,,Advanced,2,,0
+COBOL,Data Science,Language,,Familiar,0.5,,0
+CSS,App Development,Language,,Expert,1,,1
+HTML,App Development,Language,,Ninja,5,,1
+Java,General,Language,,Ninja,10,,1
+Javascript,App Development,Language,,Ninja,2,,1
+Objective C,App Development,Language,,Expert,2,,1
+Python,General,Language,,Ninja,10,,1
+SQL,Data Science,Language,,Expert,2,,0
+Visual Basic,General,Language,,Advanced,2,,0
+CUDA/C,Data Science,Language,C Variant,Familiar,0.5,,0
+Matlab/Octave,Data Science,Language,,Advanced,1,,0
+MLib,Data Science,Library,Spark,Familiar,0.5,,0
+Sklearn,Data Science,Library,Python,Advanced,1,,1
+Numpy,Data Science,Library,Python,Expert,5,,1
+Linux,General,OS,,Advanced,5,,0
+Ubuntu,General,OS,,Advanced,5,,0
+Windows Server,General,OS,,Advanced,1,,0
+Bootstrap,App Development,Platform,HTML / Javascript / CSS,Advanced,1,,1
+Scipy,Data Science,Library,Python,Expert,5,,1
+Pandas,Data Science,Library,Python,Expert,1,,1
+Angular JS,App Development,Framework,Javascript,Advanced,1,,1
+ExtJS,App Development,Framework,,Ninja,1,,1
+Apache,App Development,Server,,Familiar,1,,0
+NodeJS,App Development,Server,Javascript,Advanced,1,,1
