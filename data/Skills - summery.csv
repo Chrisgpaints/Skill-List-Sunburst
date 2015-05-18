@@ -1,0 +1,39 @@
+Skill,Field,Type,Language / Platform,Expertise Level,Years Experience,Projects,On Linkedin
+Excel,Data Science,Application / Application Platform,,Expert,10,,1
+Android App Framework,App Development,Application Platform,,Advanced,1,,0
+Django,App Development,Application Platform,,Expert,1,,1
+ExpressJS,App Development,Application Platform,Javascript,Familiar,1,,0
+IOS App framework,App Development,Application Platform,,Advanced,2,,1
+MEAN Stack,App Development,Application Platform,Javascript,Advanced,1,,0
+Spring,App Development,Application Platform,,Advanced,1,,1
+D3,Data Science,Data Visualization,Javascript,Advanced,1,,1
+MongoDB,Data Science,Database,,Advanced,1,,0
+MySQL,Data Science,Database,,Expert,2,,1
+Hibernate,Data Science,Database Connector,,Advanced,1,,0
+Spark,Data Science,Distributed Computing Framework,Java / Scala / Python,Familiar,0.1,,0
+C / C++,General,Language,,Advanced,2,,0
+COBOL,Data Science,Language,,Familiar,0.5,,0
+CSS,App Development,Language,,Expert,1,,1
+HTML,App Development,Language,,Ninja,5,,1
+Java,General,Language,,Ninja,10,,1
+Javascript,App Development,Language,,Ninja,2,,1
+Objective C,App Development,Language,,Expert,2,,1
+Python,General,Language,,Ninja,10,,1
+SQL,Data Science,Language,,Expert,2,,0
+Visual Basic,General,Language,,Advanced,2,,0
+CUDA - C,Data Science,Language / Platform,C Variant,Familiar,0.5,,0
+Matlab / Octave,Data Science,Language / Platform,,Advanced,1,,0
+MLib,Data Science,Machine Learning Library,Spark,Familiar,0.5,,0
+Sklearn,Data Science,Machine Learning Library,Python,Advanced,1,,1
+Numpy,Data Science,Numerical Computing Library,Python,Expert,5,,1
+Linux,General,Operating System,,Advanced,5,,0
+Ubuntu,General,Operating System,,Advanced,5,,0
+Windows Server,General,Operating System,,Advanced,1,,0
+Bootstrap,App Development,Rendering System,HTML / Javascript / CSS,Advanced,1,,1
+Scipy,Data Science,Scientific Computing Library,Python,Expert,5,,1
+Pandas,Data Science,Tabular Dataframe Library,Python,Expert,1,,1
+Regex,General,Technique / Concept,,Ninja,10,,0
+Angular JS,App Development,User Interface Framework,Javascript,Advanced,1,,1
+ExtJS,App Development,User Interface Framework,,Ninja,1,,1
+Apache,App Development,Web Server,,Familiar,1,,0
+NodeJS,App Development,Web Server,Javascript,Advanced,1,,1
